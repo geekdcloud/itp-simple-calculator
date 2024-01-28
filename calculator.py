@@ -20,8 +20,8 @@ def square(x):
 
 
 def power(x, y):
-    pass
+    return pow (x,y)
 
 
 def sqrt(x):
-    pass
+    return sqrt(x)
